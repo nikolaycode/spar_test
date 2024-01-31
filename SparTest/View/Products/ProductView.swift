@@ -128,7 +128,7 @@ struct ProductView: View {
             reviews: [
             Review(name: "Женя Р.", date: "7 мая 2021", rating: 4, description: "Очень хороший продукт! Я прямо чувствую как мое здоровие улучшилось!"),
             Review(name: "Игорь В.", date: "7 мая 2021", rating: 3, description: "Такое себе, не мое. Вкус очень не очень."),
-            Review(name: "Николай Б.", date: "31 января 2024", rating: 5, description: "Я кандидат который подходит вам по всем параметрам.")
+            Review(name: "Николай Б.", date: "31 января 2024", rating: 5, description: "Я кандидат который подходит вам по всем параметрам :)")
             ]
         )
     )
